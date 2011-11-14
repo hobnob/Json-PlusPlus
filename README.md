@@ -1,6 +1,6 @@
 # JSON PlusPlus
 
-Json PlusPlus is JSON encoder/decoder for C++. ENcoding an object is as simple as including the library and calling the static method decode() on the JSON decoder, like so:
+Json PlusPlus is JSON encoder/decoder for C++. Encoding an object is as simple as including the library and calling the static method decode() on the JSON decoder, like so:
 
 ````c++
 #include <string>
